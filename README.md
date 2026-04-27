@@ -3,19 +3,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-blue.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen.svg" alt="Status">
 </p>
 
 > A comprehensive guide to Linux for developers who are self-taught and want to build professional-grade skills.
 
+**Start here**: [00-how-to-use-this-book.md](00-how-to-use-this-book.md)
+
 ## 📖 About the Book
 
-**Linux for Self-Taught Devs** is a 15-chapter book designed to take you from Linux novice to competent developer-environment manager. Whether you're coming from Windows, macOS, or no prior OS experience, this book meets you where you are.
+**Linux for Self-Taught Devs** is a 16-chapter book designed to take you from Linux novice to competent developer-environment manager. Whether you're coming from Windows, macOS, or no prior OS experience, this book meets you where you are.
 
 ### What's Inside
 
 | Chapter | Title                            | Description                                            |
 | ------- | -------------------------------- | ------------------------------------------------------ |
+| 0       | How to Use This Book             | Guide to getting the most from this book               |
 | 1       | Why Linux for Developers         | The case for Linux in modern development               |
 | 2       | Linux vs Other Operating Systems | Detailed comparison with Windows and macOS             |
 | 3       | Choosing Your Setup              | Picking the right distribution and installation method |
@@ -42,10 +45,11 @@
 ### Learning Path
 
 ```
-Week 1-2    → Chapters 1-4 (Foundation)
-Week 3-4    → Chapters 5-8 (Core Skills)
-Week 5-6    → Chapters 9-12 (Professional Dev)
-Week 7-8    → Chapters 13-15 (Real-World App)
+Week 0     → Chapter 0 (How to Use)
+Week 1-2   → Chapters 1-4 (Foundation)
+Week 3-4   → Chapters 5-8 (Core Skills)
+Week 5-6   → Chapters 9-12 (Professional Dev)
+Week 7-8   → Chapters 13-15 (Real-World App)
 ```
 
 ---
