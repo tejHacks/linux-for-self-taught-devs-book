@@ -271,8 +271,8 @@ SOFTWARE.
 
 - **Issues**: Open a GitHub issue for bugs/suggestions
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: maintainer@email.com (optional)
-
+- **Email**: olateju202@gmail.com (optional)
+- **Linkedin**: https://www.linkedin.com/in/olateju-olamide-22314a292/
 ---
 
 <p align="center">
